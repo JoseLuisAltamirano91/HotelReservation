@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LUIS1\\OneDrive\\Desktop\\UNIVERSIDAD\\FUNDAMENTOS2\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
+      "projectUniqueName": "C:\\Users\\LUIS1\\OneDrive\\Desktop\\UNIVERSIDAD\\FUNDAMENTOS2\\HotelReservation\\HotelReservation.csproj",
       "projectName": "HotelReservation",
-      "projectPath": "C:\\Users\\LUIS1\\OneDrive\\Desktop\\UNIVERSIDAD\\FUNDAMENTOS2\\HotelReservation\\HotelReservation\\HotelReservation.csproj",
+      "projectPath": "C:\\Users\\LUIS1\\OneDrive\\Desktop\\UNIVERSIDAD\\FUNDAMENTOS2\\HotelReservation\\HotelReservation.csproj",
       "packagesPath": "C:\\Users\\LUIS1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LUIS1\\OneDrive\\Desktop\\UNIVERSIDAD\\FUNDAMENTOS2\\HotelReservation\\HotelReservation\\obj\\",
+      "outputPath": "C:\\Users\\LUIS1\\OneDrive\\Desktop\\UNIVERSIDAD\\FUNDAMENTOS2\\HotelReservation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LUIS1\\AppData\\Roaming\\NuGet\\NuGet.Config"
